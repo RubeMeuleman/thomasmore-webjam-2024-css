@@ -2,7 +2,7 @@
 
 The basic repository for the 2024 Thomas More Web-Jam with the basic css starterspack.
 
-> Participant number:
+> Participant name:
 
 ## 1 - Installation
 

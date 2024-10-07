@@ -28,8 +28,8 @@ function getMenu(campusName) {
 */
 
 // Loads in all receipts -> See console for JSON object.
-function loadReceipts() {
-    getMenu("De Nayer")
+function loadReceipts(campusName) {
+    getMenu(campusName)
         .then((receipts) => {
 
             // Write your code here
@@ -39,4 +39,4 @@ function loadReceipts() {
 }
 
 // Gets the receipts on website load.
-loadReceipts();
+loadReceipts("Geel");
