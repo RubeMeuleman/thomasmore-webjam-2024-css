@@ -6,6 +6,14 @@ The basic repository for the 2024 Thomas More Web-Jam with the basic css starter
 
 ## 1 - Installation
 
+Command to install all dependencies:
+
+`npm install`
+
+Start the server to fetch the API:
+
+`node server.js`
+
 The basic packages are already linked (bootstrap, font awesome, ...).
 
 A font still has to be linked. Do this in the `index.html` file (There's a to-do comment in the head). Get your font
